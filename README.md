@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi 👋, I'm Tony
+Hi 👋, I'm Tony.  
 An electrical engineering student
 
 <!-- ## 💻 Tech Stack: -->
